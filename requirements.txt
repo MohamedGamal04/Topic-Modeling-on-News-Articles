@@ -1,10 +1,12 @@
-pandas
 numpy
-nltk
-gensim
-pyLDAvis
-scikit-learn
+gensim==4.4.0
 num2words
 contractions
 jupyterlab
+pandas==2.3.2
+scikit-learn==1.6.1
+nltk==3.9.1
+plotly==6.3.1
+kagglehub==0.3.13
+wordcloud
 
